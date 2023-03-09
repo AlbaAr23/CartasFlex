@@ -6,7 +6,7 @@
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    background-image: url(img/sylv_fondo.jpg) ;
+    background-color:gold;
     padding: 20px ;
     border: 1px solid rgba(219, 130, 28, 0.493) ;
     width: 100%;
